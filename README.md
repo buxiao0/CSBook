@@ -3,21 +3,21 @@
 
 - [数据结构与算法相关书籍](#数据结构与算法相关书籍)
 - [计算机基础](#计算机基础)
-  - [操作系统](#操作系统)
-  - [汇编语言](#汇编语言)
-  - [计算机网络](#计算机网络)
-- [Python](#python)
-  - [1、Python基础](#1python基础)
-  - [2、数据分析与爬虫](#2数据分析与爬虫)
-- [Linux](#linux)
-- [C语言](#c语言)
-- [C  ](#c)
-- [人工智能](#人工智能)
-- [设计模式](#设计模式)
-- [Java](#java)
-  - [Java 基础](#java-基础)
-  - [Java进阶](#java进阶)
-  - [JavaWeb](#javaweb)
-- [数据库](#数据库)
-- [Go](#go)
-- [面试相关](#面试相关)
+
+
+
+- 1.1《啊哈！算法 啊哈磊扫描版》 [百度云下载链接](https://pan.baidu.com/s/1wIfHrFXhbzF_TMaR_hNe-A  ) 密码: 5h9s
+- 1.2《算法图解》 [百度云下载链接](https://pan.baidu.com/s/1uqpuVxh4al9YMIRhcVYaug  ) 密码: shda
+- 1.3《妙趣横生的算法（C语言实现 第2版）》 [百度云下载链接](https://pan.baidu.com/s/1rxuKW1hPsfrQfWToSiYhOA  ) 密码: 6m7s
+- 1.4《趣学算法》 [百度云下载链接](https://pan.baidu.com/s/1ZY8OwWQOLM31GdWufJhjnw  ) 密码: tu4r
+- 1.5《大话数据结构》 [百度云下载链接](https://pan.baidu.com/s/1b8ebNBHmMPhRtWGq-lUrpA  ) 密码: tlrq
+
+# 计算机基础
+
+### 操作系统
+
+- 30天填自制操作系统       [百度云下载链接](https://pan.baidu.com/s/1b31YNCIAnHkOO9sTRA7_0Q)  密码:r616
+- 操作系统之哲学原理       [百度云下载链接](https://pan.baidu.com/s/1iL5QooZAupZDN1sqky1few)  密码:2s4w
+- 程序是怎样跑起来的       [百度云下载链接](https://pan.baidu.com/s/1DDEM-UaZjwBo3oZXgZmY8Q)  密码:4hkh
+- 深入理解计算机操作系统       [百度云下载链接](https://pan.baidu.com/s/1EPP25Kc6lXDWr_H5O9Dt2g)  密码:ef4d
+- 现代操作系统       [百度云下载链接](https://pan.baidu.com/s/1fFqOWweoPw3n5_Venu2Uzg)  密码:354c
