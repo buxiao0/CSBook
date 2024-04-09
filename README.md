@@ -6,18 +6,18 @@
 
 # 数据结构与算法相关书籍
 
-- 1.1《啊哈！算法 啊哈磊扫描版》 [百度云下载链接](https://pan.baidu.com/s/1wIfHrFXhbzF_TMaR_hNe-A  ) 密码: 5h9s
-- 1.2《算法图解》 [百度云下载链接](https://pan.baidu.com/s/1uqpuVxh4al9YMIRhcVYaug  ) 密码: shda
-- 1.3《妙趣横生的算法（C语言实现 第2版）》 [百度云下载链接](https://pan.baidu.com/s/1rxuKW1hPsfrQfWToSiYhOA  ) 密码: 6m7s
-- 1.4《趣学算法》 [百度云下载链接](https://pan.baidu.com/s/1ZY8OwWQOLM31GdWufJhjnw  ) 密码: tu4r
-- 1.5《大话数据结构》 [百度云下载链接](https://pan.baidu.com/s/1b8ebNBHmMPhRtWGq-lUrpA  ) 密码: tlrq
+- 1.1《啊哈！算法 啊哈磊扫描版》
+- 1.2《算法图解》 
+- 1.3《妙趣横生的算法（C语言实现 第2版）》 
+- 1.4《趣学算法》
+- 1.5《大话数据结构》
 
 # 计算机基础
 
 ### 操作系统
 
-- 30天填自制操作系统       [百度云下载链接](https://pan.baidu.com/s/1b31YNCIAnHkOO9sTRA7_0Q)  密码:r616
-- 操作系统之哲学原理       [百度云下载链接](https://pan.baidu.com/s/1iL5QooZAupZDN1sqky1few)  密码:2s4w
-- 程序是怎样跑起来的       [百度云下载链接](https://pan.baidu.com/s/1DDEM-UaZjwBo3oZXgZmY8Q)  密码:4hkh
-- 深入理解计算机操作系统       [百度云下载链接](https://pan.baidu.com/s/1EPP25Kc6lXDWr_H5O9Dt2g)  密码:ef4d
-- 现代操作系统       [百度云下载链接](https://pan.baidu.com/s/1fFqOWweoPw3n5_Venu2Uzg)  密码:354c
+- 30天填自制操作系统       
+- 操作系统之哲学原理      
+- 程序是怎样跑起来的      
+- 深入理解计算机操作系统       
+- 现代操作系统      
